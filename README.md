@@ -1,5 +1,5 @@
 # ghidra_psx_ldr
-Sony Playstation PSX executables loader for GHIDRA
+Sony Playstation PSX executables loader for GHIDRAAAAA
 
 Video tutorial on how to deal with overlays: https://youtu.be/DuQQfjTkkQc
 
